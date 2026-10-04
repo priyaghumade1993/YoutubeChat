@@ -381,3 +381,7 @@ Python | LangChain | LangGraph | RAG | LLMs
 ## ⭐ Project Purpose
 
 This project was created as a practical implementation of **Retrieval-Augmented Generation using LangChain and LCEL**, with the goal of understanding how transcript data can be transformed into a searchable knowledge base and used to generate context-aware answers with an LLM.
+
+
+made some changes to check git
+
